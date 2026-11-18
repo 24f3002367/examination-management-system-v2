@@ -1,0 +1,9 @@
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+celerybeat-schedule
+dump.rdb
+.DS_Store

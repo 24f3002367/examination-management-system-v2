@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-cors
+flask-jwt-extended
+redis
+celery
+werkzeug
+packaging
+python-dateutil
